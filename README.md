@@ -7,7 +7,7 @@ This repository is dedicated to solving coding problems using the Go programming
 Each coding problem has its own dedicated folder containing three main files:
 
 - `solution.go`: The Go file containing the solution.
-- `main_test.go`: The Go file containing tests to verify the solution.
+- `solution_test.go`: The Go file containing tests to verify the solution.
 - `explanation.md`: A markdown file explaining the thought process and approach taken to solve the problem.
 
 ## Getting Started
